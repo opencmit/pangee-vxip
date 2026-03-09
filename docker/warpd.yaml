@@ -1,0 +1,6 @@
+global:
+  fnat-filepath: /app/warp/bin/fnat_bpfel.o
+  conn-timeout: 5
+  available-port-range:
+    min: 10000
+    max: 45191
